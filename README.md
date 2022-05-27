@@ -1,6 +1,6 @@
 # Hi there 👋, I am Roman Khan Rajib
 #### I am a react js developer
-![I am a react js developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/242740883_991677018345775_8061116399564902041_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_ohc=w8VLhS5YO2YAX_WPneH&_nc_ht=scontent.fdac5-2.fna&oh=00_AT9tVmr8oMVow71HX7orDnVbmgZwyngziw3GuHTAZkI0Hw&oe=628D508A)
+(https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/242740883_991677018345775_8061116399564902041_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_ohc=w8VLhS5YO2YAX_WPneH&_nc_ht=scontent.fdac5-2.fna&oh=00_AT9tVmr8oMVow71HX7orDnVbmgZwyngziw3GuHTAZkI0Hw&oe=628D508A)
 
 I am passionate programmer with proficiency in React.js, HTML, JavaScript, and CSS, as well as strong ability to communicate and work in a team effectively.
 
