@@ -1,12 +1,12 @@
 # Hi there 👋, I am Roman Khan Rajib
-#### I am a react js developer
+#### I am a MERN Stack js developer
 
 I am passionate programmer with proficiency in React.js, HTML, JavaScript, and CSS, as well as strong ability to communicate and work in a team effectively.
 
-Skills: REACT / JS / HTML / CSS/SCSS
+Skills: REACT /Next / Node / Express / MongoDB / TS / JS 
 
 - 🔭 I’m currently working on Upwork 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’ve extensive worked experience on MERN  
 - 👯 I’m looking to collaborate on github 
 
 
