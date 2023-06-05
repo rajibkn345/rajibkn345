@@ -6,7 +6,7 @@ I am passionate programmer with proficiency in React.js, HTML, JavaScript, and C
 Skills: REACT /Next / Node / Express / MongoDB / TS / JS 
 
 - 🔭 I’m currently working on Upwork 
-- 🌱 I’ve extensive worked experience on MERN  
+- 🌱 I’ve extensive work experience on MERN Stack  
 - 👯 I’m looking to collaborate on github 
 
 
